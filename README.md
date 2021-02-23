@@ -1,5 +1,12 @@
 # Rust async workshop
 
+Useful links:
+
+* [Tokio - API docs](https://docs.rs/tokio/1.2.0/tokio/index.html)
+* [Tokio - Tutorial](https://tokio.rs/tokio/tutorial)
+* [Book - Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/) (useful, but expect lots of TODOs)
+
+
 ## 01_async
 
 ```
