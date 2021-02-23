@@ -36,3 +36,15 @@ cargo run --bin 04_async_fn
 ```
 cargo run --bin 05_async_fn_done
 ```
+
+## 06_channels
+
+```
+cargo run --bin 06_channels
+```
+
+## 07_select
+
+```
+cargo run --bin 07_select
+```
